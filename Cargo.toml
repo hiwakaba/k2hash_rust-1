@@ -4,6 +4,7 @@ version = "1.0.0"
 edition = "2021"
 description = "Official k2hash Rust Driver"
 build = "build.rs"
+license = "MIT"
 
 [dependencies]
 libc = "0.2"
