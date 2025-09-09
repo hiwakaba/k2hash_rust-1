@@ -17,8 +17,11 @@ name: CI & Publish
 
 on:
   push:
-    tags:
-      - 'v*'
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  release:
+    types: [published]
 
 jobs:
   test:
