@@ -30,7 +30,7 @@ of open source software developed by [AntPickax](https://antpick.ax/).
 
 Firstly you must install the [k2hash](https://k2hash.antpick.ax/) shared library.
 ```sh
-curl -o- https://raw.github.com/yahoojapan/k2hash_rust/master/utils/libk2hash.sh | bash
+curl -o- https://raw.github.com/yahoojapan/k2hash_rust/main/utils/libk2hash.sh | bash
 ```
 You can install **k2hash** library step by step from [source code](https://github.com/yahoojapan/k2hash). See [Build](https://k2hash.antpick.ax/build.html) for details.
 

@@ -1,3 +1,9 @@
+k2hash_rust (1.0.1) stable; urgency=low
+
+  *  Fix the URL
+
+ -- Hirotaka Wakabayashi <hiwakaba@lycorp.co.jp>  Tue, 09 Sep 2025 18:19:11 +0900
+
 k2hash_rust (1.0.0) stable; urgency=low
 
   *  Initial commit
