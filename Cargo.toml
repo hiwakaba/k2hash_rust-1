@@ -1,6 +1,6 @@
 [package]
 name = "k2hash_rust"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 description = "Official k2hash Rust Driver"
 build = "build.rs"
