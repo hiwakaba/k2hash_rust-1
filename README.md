@@ -20,7 +20,8 @@ You can install **k2hash** library step by step from [source code](https://githu
 Download the **k2hash_rust** package.
 
 ```sh
-cargo install k2hash_rust
+cd /path/to/your/rust/project
+cargo add k2hash_rust
 ```
 
 ## Usage
